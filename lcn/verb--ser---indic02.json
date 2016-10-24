@@ -1,0 +1,31 @@
+[["cm"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Preterite - Indicative","ser"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"fui"}
+  ,{"x":"                 ","pre":"tú ","a":"fuiste"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"fue"}
+  ,{"x":"           ","pre":"nosotros ","a":"fuimos"}
+  ,{"x":"           ","pre":"vosotros ","a":"fuisteis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"fueron"}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+
+]

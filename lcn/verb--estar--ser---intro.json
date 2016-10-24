@@ -1,0 +1,52 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"ser",
+  "a":"to be"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to be",
+  "a":"ser"
+  ,"o":[
+    ["- generally referring to a characteristic or aspect-of-identity"
+      ,"estar"
+    ]
+  ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"estar",
+  "a":"to be"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to be",
+  "a":"estar"
+  ,"o":[
+    ["- generally referring to a temporary condition"
+      ,"ser"
+    ]
+  ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+]

@@ -1,0 +1,30 @@
+[["cm"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Preterite - Indicative","estar"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"estuve"}
+  ,{"x":"                 ","pre":"tú ","a":"estuviste"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"estuvo"}
+  ,{"x":"           ","pre":"nosotros ","a":"estuvimos"}
+  ,{"x":"           ","pre":"vosotros ","a":"estuvisteis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"estuvieron"}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+]

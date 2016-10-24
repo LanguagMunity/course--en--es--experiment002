@@ -1,0 +1,91 @@
+[["cm"
+,"Newbie Expressions - Part 2"]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Estoy aprendiendo español.",
+  "a":"I am learning Spanish."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I am learning Spanish.",
+  "a":"Estoy aprendiendo español."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"sí",
+  "a":"yes"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"yes",
+  "a":"sí"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"no",
+  "a":"no"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"no",
+  "a":"no"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Gracias.",
+  "a":"Thank you."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Thank you.",
+  "a":"Gracias."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Por favor.",
+  "a":"Please."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Please.",
+  "a":"Por favor."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Lo siento.",
+  "a":"I'm sorry."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I'm sorry.",
+  "a":"Lo siento."
+}
+
+
+
+
+]

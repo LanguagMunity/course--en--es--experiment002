@@ -1,0 +1,30 @@
+[["cm"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Present - Indicative","estar"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"estoy"}
+  ,{"x":"                 ","pre":"tú ","a":"estás"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"está"}
+  ,{"x":"           ","pre":"nosotros ","a":"estamos"}
+  ,{"x":"           ","pre":"vosotros ","a":"estáis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"están"}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+]

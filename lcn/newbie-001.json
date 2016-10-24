@@ -1,0 +1,108 @@
+[["cm"
+,"Unit 01 - Chapter 01 - Lesson 01"]
+
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Hola.",
+  "a":"Hello."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Hello.",
+  "a":"Hola."
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cómo estás?",
+  "a":"How are you?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"How are you?",
+  "a":"¿Cómo estás?"
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cómo se dice en español?",
+  "a":"How does one say it in Spanish?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"How does one say it in Spanish?",
+  "a":"¿Cómo se dice en español?"
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cómo se podría decir que en Inglés?",
+  "a":"How would one say that in English?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"How would one say that in English?",
+  "a":"¿Cómo se podría decir que en Inglés?"
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Todavía estoy aprendiendo español.",
+  "a":"I am still learning Spanish."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I am still learning Spanish.",
+  "a":"Todavía estoy aprendiendo español."
+}
+
+
+,["cm",{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Entiendo español.",
+  "a":"I understand Spanish."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I understand Spanish.",
+  "a":"Entiendo español."
+}]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Quiero aprender español.",
+  "a":"I want to learn Spanish."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I want to learn Spanish.",
+  "a":"Quiero aprender español."
+}
+
+
+
+
+
+
+,["cm"
+
+
+
+]]

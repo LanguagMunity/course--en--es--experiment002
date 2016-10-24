@@ -1,0 +1,27 @@
+{
+"info":{
+	"title":"EXPERIMENTAL module #2 - Spanish for English Speakers - dry test spine"
+,	"mdtyp":"main"
+,	"ref":{
+		"langcode":"en"
+	,	"iclang":"en"
+	,	"lngname":"English"
+	}
+,	"targ":{
+		"langcode":"es"
+	,	"iclang":"es"
+	,	"lngname":"Spanish"
+	}
+}
+,"lcnx":[
+
+{
+  "id":"test01"
+  ,"title":"Test Focus #1"
+  ,"dscrip":"A focus on the lesson we are constructing at the moment"
+  ,"prereq":[]
+  ,"resrc":["res/names.json"]
+  ,"txtres":["lcn/nub-001.json"]
+}
+
+]}

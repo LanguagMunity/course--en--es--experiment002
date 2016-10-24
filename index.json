@@ -1,0 +1,122 @@
+{
+"info":{
+	"title":"EXPERIMENTAL module #2 - Spanish for English Speakers"
+,	"mdtyp":"main"
+,	"ref":{
+		"langcode":"en"
+	,	"iclang":"en"
+	,	"lngname":"English"
+	}
+,	"targ":{
+		"langcode":"es"
+	,	"iclang":"es"
+	,	"lngname":"Spanish"
+	}
+}
+,"alias":{"newbie-x":["newbie-003"]
+}
+,"lcnx":[
+
+{
+  "id":"newbie-001"
+  ,"title":"Newbie Expressions Part 1"
+  ,"dscrip":"The unit on Newbie Expressions is designed to teach you a sub-set\nof Spanish that you can use to excuse yourself and ask for certain\nconsiderations on account of not knowing more Spanish than that.\nIt is important to start with that because you can't wait until\nyou're fluent in Spanish to start your immersion."
+  ,"prereq":[]
+  ,"resrc":["res/names.json"]
+  ,"txtres":["lcn/newbie-001.json"]
+}
+
+,{
+  "id":"newbie-002"
+  ,"title":"Newbie Expressions Part 2"
+  ,"dscrip":"The unit on Newbie Expressions is designed to teach you a sub-set\nof Spanish that you can use to excuse yourself and ask for certain\nconsiderations on account of not knowing more Spanish than that.\nIt is important to start with that because you can't wait until\nyou're fluent in Spanish to start your immersion."
+  ,"prereq":["newbie-001"]
+  ,"txtres":["lcn/newbie-002.json"]
+}
+
+,{
+  "id":"newbie-003"
+  ,"title":"Newbie Expressions Part 3"
+  ,"dscrip":"The unit on Newbie Expressions is designed to teach you a sub-set\nof Spanish that you can use to excuse yourself and ask for certain\nconsiderations on account of not knowing more Spanish than that.\nIt is important to start with that because you can't wait until\nyou're fluent in Spanish to start your immersion."
+  ,"prereq":["newbie-002"]
+  ,"txtres":["lcn/newbie-003.json"]
+}
+
+,{
+  "id":"verb--estar--ser---intro"
+  ,"title":"Defining verbs: ser and estar"
+  ,"prereq":["newbie-x"]
+  ,"txtres":["lcn/verb--estar--ser---intro.json"]
+}
+
+,{
+  "id":"verb--estar---indic01"
+  ,"title":"Verb: estar: Present - Indicative"
+  ,"prereq":["verb--estar--ser---intro"]
+  ,"txtres":["lcn/verb--estar---indic01.json"]
+}
+
+,{
+  "id":"verb--estar---indic02"
+  ,"title":"Verb: estar: Preterite - Indicative"
+  ,"prereq":["verb--estar---indic01"]
+  ,"txtres":["lcn/verb--estar---indic02.json"]
+}
+
+,{
+  "id":"verb--estar---indic03"
+  ,"title":"Verb: estar: Imperfect - Indicative"
+  ,"prereq":["verb--estar---indic02"]
+  ,"txtres":["lcn/verb--estar---indic03.json"]
+}
+
+,{
+  "id":"verb--estar---indic04"
+  ,"title":"Verb: estar: Conditional - Indicative"
+  ,"prereq":["verb--estar---indic03"]
+  ,"txtres":["lcn/verb--estar---indic04.json"]
+}
+
+,{
+  "id":"verb--estar---indic05"
+  ,"title":"Verb: estar: Conditional - Indicative"
+  ,"prereq":["verb--estar---indic04"]
+  ,"txtres":["lcn/verb--estar---indic05.json"]
+}
+
+,{
+  "id":"verb--ser---indic01"
+  ,"title":"Verb: ser: Present - Indicative"
+  ,"prereq":["verb--estar--ser---intro"]
+  ,"txtres":["lcn/verb--ser---indic01.json"]
+}
+
+,{
+  "id":"verb--ser---indic02"
+  ,"title":"Verb: ser: Preterite - Indicative"
+  ,"prereq":["verb--ser---indic01"]
+  ,"txtres":["lcn/verb--ser---indic02.json"]
+}
+
+,{
+  "id":"verb--ser---indic03"
+  ,"title":"Verb: ser: Imperfect - Indicative"
+  ,"prereq":["verb--ser---indic02"]
+  ,"txtres":["lcn/verb--ser---indic03.json"]
+}
+
+,{
+  "id":"verb--ser---indic04"
+  ,"title":"Verb: ser: Conditional - Indicative"
+  ,"prereq":["verb--ser---indic03"]
+  ,"txtres":["lcn/verb--ser---indic04.json"]
+}
+
+,{
+  "id":"verb--ser---indic05"
+  ,"title":"Verb: ser: Conditional - Indicative"
+  ,"prereq":["verb--ser---indic04"]
+  ,"txtres":["lcn/verb--ser---indic05.json"]
+}
+
+]}

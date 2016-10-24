@@ -1,0 +1,132 @@
+[["cm"
+,"Newbie Expressions - Part 3"]
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cuál es su nombre?",
+  "a":"What is your name?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"What is your name?",
+  "a":"¿Cuál es su nombre?"
+  ,"o":[
+    ["  --> formal","¿Cómo te llamas?"]
+  ]
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cómo te llamas?",
+  "a":"What is your name?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"What is your name?",
+  "a":"¿Cómo te llamas?"
+  ,"o":[
+    ["  --> familiar","¿Cuál es su nombre?"]
+  ]
+}
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/Mi nombre es ","*n1","/."],
+  "a":[["/My name is ","*n1","/."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/My name is ","*n1","/."],
+  "a":[["/Mi nombre es ","*n1","/."]]
+  ,"o":[
+    ["  --> formal"
+      ,["/Yo me llamo ","*n1","/."]
+      ,["/Me llamo ","*n1","/."]
+    ]
+  ]
+}
+
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/Yo me llamo ","*n1","/."],
+  "a":[["/My name is ","*n1","/."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/My name is ","*n1","/."],
+  "a":[["/Yo me llamo ","*n1","/."]]
+  ,"o":[
+    ["  --> familiar",["/Mi nombre es ","*n1","/."]],
+    ["  --> not so concise",["/Me llamo ","*n1","/."]]
+  ]
+}
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/Me llamo ","*n1","/."],
+  "a":[["/My name is ","*n1","/."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/My name is ","*n1","/."],
+  "a":[["/Me llamo ","*n1","/."]]
+  ,"o":[
+    ["  --> familiar",["/Mi nombre es ","*n1","/."]],
+    ["  --> more concisely",["/Yo me llamo ","*n1","/."]]
+  ]
+}
+
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/Soy ","*n1","/."],
+  "a":[["/I am ","*n1","/."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/I am ","*n1","/."],
+  "a":[["/Soy ","*n1","/."]]
+}
+
+
+
+
+
+]

@@ -1,0 +1,31 @@
+[["cm"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Future - Indicative","estar"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"estaré"}
+  ,{"x":"                 ","pre":"tú ","a":"estarás"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"estará"}
+  ,{"x":"           ","pre":"nosotros ","a":"estaremos"}
+  ,{"x":"           ","pre":"vosotros ","a":"estaréis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"estarán"}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+
+]
