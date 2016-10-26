@@ -13,6 +13,10 @@
   "lang":["en","es"],
   "q":"I am learning Spanish.",
   "a":"Estoy aprendiendo español."
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 
@@ -27,6 +31,10 @@
   "lang":["en","es"],
   "q":"yes",
   "a":"sí"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 
@@ -41,6 +49,10 @@
   "lang":["en","es"],
   "q":"no",
   "a":"no"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 
@@ -55,6 +67,10 @@
   "lang":["en","es"],
   "q":"Thank you.",
   "a":"Gracias."
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 
@@ -69,6 +85,10 @@
   "lang":["en","es"],
   "q":"Please.",
   "a":"Por favor."
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 
@@ -83,6 +103,10 @@
   "lang":["en","es"],
   "q":"I'm sorry.",
   "a":"Lo siento."
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 

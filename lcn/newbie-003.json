@@ -15,6 +15,10 @@
   ,"o":[
     ["  --> formal","¿Cómo te llamas?"]
   ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 ,{
@@ -31,6 +35,10 @@
   ,"o":[
     ["  --> familiar","¿Cuál es su nombre?"]
   ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 ,{
@@ -42,11 +50,12 @@
   "q":["/Mi nombre es ","*n1","/."],
   "a":[["/My name is ","*n1","/."]]
 }
+,["alt"
 ,{
   "typ":"subst",
   "lang":["en","es"],
   "pre":[
-    ["prsn",[["r","n1"]]]
+    ["prsn-m",[["r","n1"]]]
   ],
   "q":["/My name is ","*n1","/."],
   "a":[["/Mi nombre es ","*n1","/."]]
@@ -56,7 +65,31 @@
       ,["/Me llamo ","*n1","/."]
     ]
   ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"m"
+  }
 }
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn-f",[["r","n1"]]]
+  ],
+  "q":["/My name is ","*n1","/."],
+  "a":[["/Mi nombre es ","*n1","/."]]
+  ,"o":[
+    ["  --> formal"
+      ,["/Yo me llamo ","*n1","/."]
+      ,["/Me llamo ","*n1","/."]
+    ]
+  ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"f"
+  }
+}
+]
 
 
 ,{
@@ -68,11 +101,12 @@
   "q":["/Yo me llamo ","*n1","/."],
   "a":[["/My name is ","*n1","/."]]
 }
+,["alt"
 ,{
   "typ":"subst",
   "lang":["en","es"],
   "pre":[
-    ["prsn",[["r","n1"]]]
+    ["prsn-m",[["r","n1"]]]
   ],
   "q":["/My name is ","*n1","/."],
   "a":[["/Yo me llamo ","*n1","/."]]
@@ -80,7 +114,30 @@
     ["  --> familiar",["/Mi nombre es ","*n1","/."]],
     ["  --> not so concise",["/Me llamo ","*n1","/."]]
   ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"m"
+  }
 }
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn-f",[["r","n1"]]]
+  ],
+  "q":["/My name is ","*n1","/."],
+  "a":[["/Yo me llamo ","*n1","/."]]
+  ,"o":[
+    ["  --> familiar",["/Mi nombre es ","*n1","/."]],
+    ["  --> not so concise",["/Me llamo ","*n1","/."]]
+  ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"f"
+  }
+}
+]
+
 
 ,{
   "typ":"subst",
@@ -91,11 +148,12 @@
   "q":["/Me llamo ","*n1","/."],
   "a":[["/My name is ","*n1","/."]]
 }
+,["alt"
 ,{
   "typ":"subst",
   "lang":["en","es"],
   "pre":[
-    ["prsn",[["r","n1"]]]
+    ["prsn-m",[["r","n1"]]]
   ],
   "q":["/My name is ","*n1","/."],
   "a":[["/Me llamo ","*n1","/."]]
@@ -103,7 +161,29 @@
     ["  --> familiar",["/Mi nombre es ","*n1","/."]],
     ["  --> more concisely",["/Yo me llamo ","*n1","/."]]
   ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"m"
+  }
 }
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn-f",[["r","n1"]]]
+  ],
+  "q":["/My name is ","*n1","/."],
+  "a":[["/Me llamo ","*n1","/."]]
+  ,"o":[
+    ["  --> familiar",["/Mi nombre es ","*n1","/."]],
+    ["  --> more concisely",["/Yo me llamo ","*n1","/."]]
+  ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"f"
+  }
+}
+]
 
 
 ,{
@@ -115,18 +195,34 @@
   "q":["/Soy ","*n1","/."],
   "a":[["/I am ","*n1","/."]]
 }
+,["alt"
 ,{
   "typ":"subst",
   "lang":["en","es"],
   "pre":[
-    ["prsn",[["r","n1"]]]
+    ["prsn-m",[["r","n1"]]]
   ],
   "q":["/I am ","*n1","/."],
   "a":[["/Soy ","*n1","/."]]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"m"
+  }
 }
-
-
-
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn-f",[["r","n1"]]]
+  ],
+  "q":["/I am ","*n1","/."],
+  "a":[["/Soy ","*n1","/."]]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"f"
+  }
+}
+]
 
 
 ]

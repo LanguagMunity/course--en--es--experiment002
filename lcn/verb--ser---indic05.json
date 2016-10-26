@@ -1,0 +1,33 @@
+[["cm"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Future - Indicative","ser"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"seré"}
+  ,{"x":"                 ","pre":"tú ","a":"serás"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"será"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"seremos"}
+  ,{"x":"           ","pre":"vosotros ","a":"seréis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"serán"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+
+]

@@ -7,10 +7,12 @@
 ,"lines":[
   { "x":"                 ","pre":"yo ","a":"xxxxxx"}
   ,{"x":"                 ","pre":"tú ","a":"xxxxxx"}
-  ,{"x":"      ","pre":"él/ella/usted ","a":"xxxxxx"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"xxxxxx"
+  ,		"apre":["él ","ella ","usted "]}
   ,{"x":"           ","pre":"nosotros ","a":"xxxxxx"}
   ,{"x":"           ","pre":"vosotros ","a":"xxxxxx"}
-  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"xxxxxx"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"xxxxxx"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
   ,"voca":{"typ":"synth"
     ,"lng":"es"

@@ -7,10 +7,12 @@
 ,"lines":[
   { "x":"                 ","pre":"yo ","a":"estuve"}
   ,{"x":"                 ","pre":"tú ","a":"estuviste"}
-  ,{"x":"      ","pre":"él/ella/usted ","a":"estuvo"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"estuvo"
+  ,		"apre":["él ","ella ","usted "]}
   ,{"x":"           ","pre":"nosotros ","a":"estuvimos"}
   ,{"x":"           ","pre":"vosotros ","a":"estuvisteis"}
-  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"estuvieron"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"estuvieron"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
   ,"voca":{"typ":"synth"
     ,"lng":"es"

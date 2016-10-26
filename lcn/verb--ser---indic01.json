@@ -7,10 +7,12 @@
 ,"lines":[
   { "x":"                 ","pre":"yo ","a":"soy"}
   ,{"x":"                 ","pre":"tú ","a":"eres"}
-  ,{"x":"      ","pre":"él/ella/usted ","a":"es"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"es"
+  ,		"apre":["él ","ella ","usted "]}
   ,{"x":"           ","pre":"nosotros ","a":"somos"}
   ,{"x":"           ","pre":"vosotros ","a":"sois"}
-  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"son"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"son"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
   ,"voca":{"typ":"synth"
     ,"lng":"es"

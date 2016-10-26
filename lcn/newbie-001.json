@@ -14,6 +14,10 @@
   "lang":["en","es"],
   "q":"Hello.",
   "a":"Hola."
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 ,{
@@ -27,6 +31,10 @@
   "lang":["en","es"],
   "q":"How are you?",
   "a":"¿Cómo estás?"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 ,{
@@ -40,19 +48,27 @@
   "lang":["en","es"],
   "q":"How does one say it in Spanish?",
   "a":"¿Cómo se dice en español?"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 ,{
   "typ":"smtx",
   "lang":["es","en"],
   "q":"¿Cómo se podría decir que en Inglés?",
-  "a":"How would one say that in English?"
+  "a":"How could one say that in English?"
 }
 ,{
   "typ":"smtx",
   "lang":["en","es"],
-  "q":"How would one say that in English?",
+  "q":"How could one say that in English?",
   "a":"¿Cómo se podría decir que en Inglés?"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 ,{
@@ -66,6 +82,10 @@
   "lang":["en","es"],
   "q":"I am still learning Spanish.",
   "a":"Todavía estoy aprendiendo español."
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 
@@ -80,6 +100,10 @@
   "lang":["en","es"],
   "q":"I understand Spanish.",
   "a":"Entiendo español."
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }]
 
 
@@ -94,6 +118,10 @@
   "lang":["en","es"],
   "q":"I want to learn Spanish.",
   "a":"Quiero aprender español."
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
 }
 
 

@@ -7,10 +7,12 @@
 ,"lines":[
   { "x":"                 ","pre":"yo ","a":"estaré"}
   ,{"x":"                 ","pre":"tú ","a":"estarás"}
-  ,{"x":"      ","pre":"él/ella/usted ","a":"estará"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"estará"
+  ,		"apre":["él ","ella ","usted "]}
   ,{"x":"           ","pre":"nosotros ","a":"estaremos"}
   ,{"x":"           ","pre":"vosotros ","a":"estaréis"}
-  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"estarán"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"estarán"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
   ,"voca":{"typ":"synth"
     ,"lng":"es"
