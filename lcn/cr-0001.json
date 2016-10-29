@@ -1,0 +1,96 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"de",
+  "a":"from / of"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"from / of",
+  "a":"de"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"el libro de mi tía",
+  "a":"my aunt's book"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"my aunt's book",
+  "a":"el libro de mi tía"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"alguien de España",
+  "a":"someone from Spain"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"someone from Spain",
+  "a":"alguien de España"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"un libro que me gusta",
+  "a":"a book that I like"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"a book that I like",
+  "a":"un libro que me gusta"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Creo que es aquí.",
+  "a":"I think that it is here."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I think that it is here.",
+  "a":"Creo que es aquí."
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+]
