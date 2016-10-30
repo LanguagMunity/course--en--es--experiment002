@@ -92,5 +92,55 @@
 }
 
 
+,["alt"
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Estoy orgulloso de tus logros.",
+  "a":"I am proud of your accomplishments."
+}
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Estoy orgullosa de tus logros.",
+  "a":"I am proud of your accomplishments."
+}
+]
+
+
+,["alt"
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I am proud of your accomplishments.",
+  "a":"Estoy orgulloso de tus logros."
+  ,"o":[
+    [" - 1st person in masculine, please"
+      ,"Estoy orgullosa de tus logros."
+    ]
+  ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"m"
+  }
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I am proud of your accomplishments.",
+  "a":"Estoy orgullosa de tus logros."
+  ,"o":[
+    [" - 1st person in feminine, please"
+      ,"Estoy orgulloso de tus logros."
+    ]
+  ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"f"
+  }
+}
+]
+
+
 
 ]
