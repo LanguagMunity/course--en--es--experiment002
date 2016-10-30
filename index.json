@@ -15,6 +15,10 @@
 }
 ,"alias":{"newbie-x":["newbie-003"]
 }
+,"replace":{
+		"verb--estar--ser---intro":[]
+	,	"verb--estar---indic01":[]
+}
 ,"lcnx":[
 
 {
