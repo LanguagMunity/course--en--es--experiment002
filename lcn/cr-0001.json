@@ -142,5 +142,151 @@
 ]
 
 
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"a",
+  "a":"to"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to",
+  "a":"a"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Ve a la mesa.",
+  "a":"Go to the table."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Go to the table.",
+  "a":"Ve a la mesa."
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+,["cm"
+,["alt"
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"a la derecha",
+  "a":"to the right"
+}
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"a la izquierda",
+  "a":"to the left"
+}
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"a su derecha",
+  "a":"to your right"
+}
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"a su izquierda",
+  "a":"to your left"
+}
+]
+
+
+,["alt"
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to the right",
+  "a":"a la derecha"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to the left",
+  "a":"a la izquierda"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to your right",
+  "a":"a su derecha"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to your left",
+  "a":"a su izquierda"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+]
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"la",
+  "a":"the (f)"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"the (f)",
+  "a":"la"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"el",
+  "a":"the (m)"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"the (m)",
+  "a":"el"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
 
 ]
