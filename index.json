@@ -51,79 +51,87 @@
 }
 
 ,{
+  "id":"cr-0002"
+  ,"title":"Core Course - Lesson 2"
+  ,"dscrip":"Continuing the Core Course ..."
+  ,"prereq":["cr-0001"]
+  ,"txtres":["lcn/cr-0002.json"]
+}
+
+,{
   "id":"verb--estar--ser---intro"
   ,"title":"Defining verbs: ser and estar"
-  ,"prereq":["newbie-x"]
+  ,"prereq":["newbie-x","deprecate"]
   ,"txtres":["lcn/verb--estar--ser---intro.json"]
 }
 
 ,{
   "id":"verb--estar---indic01"
   ,"title":"Verb: estar: Present - Indicative"
-  ,"prereq":["verb--estar--ser---intro"]
+  ,"prereq":["verb--estar--ser---intro","deprecate"]
   ,"txtres":["lcn/verb--estar---indic01.json"]
 }
 
 ,{
   "id":"verb--estar---indic02"
   ,"title":"Verb: estar: Preterite - Indicative"
-  ,"prereq":["verb--estar---indic01"]
+  ,"prereq":["verb--estar---indic01","deprecate"]
   ,"txtres":["lcn/verb--estar---indic02.json"]
 }
 
 ,{
   "id":"verb--estar---indic03"
   ,"title":"Verb: estar: Imperfect - Indicative"
-  ,"prereq":["verb--estar---indic02"]
+  ,"prereq":["verb--estar---indic02","deprecate"]
   ,"txtres":["lcn/verb--estar---indic03.json"]
 }
 
 ,{
   "id":"verb--estar---indic04"
   ,"title":"Verb: estar: Conditional - Indicative"
-  ,"prereq":["verb--estar---indic03"]
+  ,"prereq":["verb--estar---indic03","deprecate"]
   ,"txtres":["lcn/verb--estar---indic04.json"]
 }
 
 ,{
   "id":"verb--estar---indic05"
   ,"title":"Verb: estar: Conditional - Indicative"
-  ,"prereq":["verb--estar---indic04"]
+  ,"prereq":["verb--estar---indic04","deprecate"]
   ,"txtres":["lcn/verb--estar---indic05.json"]
 }
 
 ,{
   "id":"verb--ser---indic01"
   ,"title":"Verb: ser: Present - Indicative"
-  ,"prereq":["verb--estar--ser---intro"]
+  ,"prereq":["verb--estar--ser---intro","deprecate"]
   ,"txtres":["lcn/verb--ser---indic01.json"]
 }
 
 ,{
   "id":"verb--ser---indic02"
   ,"title":"Verb: ser: Preterite - Indicative"
-  ,"prereq":["verb--ser---indic01"]
+  ,"prereq":["verb--ser---indic01","deprecate"]
   ,"txtres":["lcn/verb--ser---indic02.json"]
 }
 
 ,{
   "id":"verb--ser---indic03"
   ,"title":"Verb: ser: Imperfect - Indicative"
-  ,"prereq":["verb--ser---indic02"]
+  ,"prereq":["verb--ser---indic02","deprecate"]
   ,"txtres":["lcn/verb--ser---indic03.json"]
 }
 
 ,{
   "id":"verb--ser---indic04"
   ,"title":"Verb: ser: Conditional - Indicative"
-  ,"prereq":["verb--ser---indic03"]
+  ,"prereq":["verb--ser---indic03","deprecate"]
   ,"txtres":["lcn/verb--ser---indic04.json"]
 }
 
 ,{
   "id":"verb--ser---indic05"
   ,"title":"Verb: ser: Conditional - Indicative"
-  ,"prereq":["verb--ser---indic04"]
+  ,"prereq":["verb--ser---indic04","deprecate"]
   ,"txtres":["lcn/verb--ser---indic05.json"]
 }
 

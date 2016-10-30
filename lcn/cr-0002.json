@@ -1,0 +1,165 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"y",
+  "a":"and"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"and",
+  "a":"y"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"ser",
+  "a":"to be"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to be",
+  "a":"ser"
+  ,"o":[
+    ["- generally referring to a characteristic or aspect-of-identity"
+      ,"estar"
+    ]
+  ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"estar",
+  "a":"to be"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to be",
+  "a":"estar"
+  ,"o":[
+    ["- generally referring to a temporary condition"
+      ,"ser"
+    ]
+  ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Present - Indicative","ser"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"soy"}
+  ,{"x":"                 ","pre":"tú ","a":"eres"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"es"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"somos"}
+  ,{"x":"           ","pre":"vosotros ","a":"sois"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"son"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"en",
+  "a":"in / on"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"in / on",
+  "a":"en"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"lo",
+  "a":"it / him / the"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"it / him / the",
+  "a":"lo"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"un",
+  "a":"a (m)"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"a (m)",
+  "a":"un"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"por qué",
+  "a":"why"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"why",
+  "a":"por qué"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+]

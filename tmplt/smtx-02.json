@@ -1,0 +1,43 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"SPANISH",
+  "a":"ENGLISH"
+  ,"o":[
+    ["WRONGNT01"
+      ,"WRONG01A"
+      ,"WRONG01B"
+    ]
+    ,["WRONGNT02"
+      ,"WRONG02A"
+      ,"WRONG02B"
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"ENGLISH",
+  "a":"SPANISH"
+  ,"o":[
+    ["WRONGNT01"
+      ,"WRONG01A"
+      ,"WRONG01B"
+    ]
+    ,["WRONGNT02"
+      ,"WRONG02A"
+      ,"WRONG02B"
+    ]
+  ]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+]
