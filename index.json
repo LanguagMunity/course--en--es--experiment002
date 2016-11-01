@@ -139,4 +139,11 @@
   ,"txtres":["lcn/verb--ser---indic05.json"]
 }
 
+,{
+  "id":"cng-0001"
+  ,"title":"Conjugate: Indicative: Present, Preterite and Imperfect: Verbs ending in \"ir\""
+  ,"prereq":["cr-0001"]
+  ,"txtres":["lcn/cng-0001.json"]
+}
+
 ]}

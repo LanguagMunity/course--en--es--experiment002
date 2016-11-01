@@ -1,0 +1,94 @@
+[["cm",
+"Template extracted from: hablar"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Special tenses","__ar"]
+,"lines":[
+  { "x":"            ","pre":"Gerund: ","a":"__ando"
+  ,		"apre":[""]}
+  ,{"x":"        ","pre":"Participle: ","a":"__ado"
+  ,		"apre":[""]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Present - Indicative","__ar"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"__o"}
+  ,{"x":"                 ","pre":"tú ","a":"__as"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"__a"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"__amos"}
+  ,{"x":"           ","pre":"vosotros ","a":"__áis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"__an"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Preterite - Indicative","__ar"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"__é"}
+  ,{"x":"                 ","pre":"tú ","a":"__aste"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"__ó"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"__amos"}
+  ,{"x":"           ","pre":"vosotros ","a":"__asteis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"__aron"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Imperfect - Indicative","__ar"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"__aba"}
+  ,{"x":"                 ","pre":"tú ","a":"__abas"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"__aba"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"__ábamos"}
+  ,{"x":"           ","pre":"vosotros ","a":"__abais"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"__aban"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+]

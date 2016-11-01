@@ -275,12 +275,12 @@
   "typ":"smtx",
   "lang":["es","en"],
   "q":"el",
-  "a":"the (m)"
+  "a":"the (m) (sg)"
 }
 ,{
   "typ":"smtx",
   "lang":["en","es"],
-  "q":"the (m)",
+  "q":"the (m) (sg)",
   "a":"el"
   ,"voca":{"typ":"synth"
     ,"lng":"es"
