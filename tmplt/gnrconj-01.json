@@ -1,0 +1,50 @@
+[["cm",
+"Template extracted from: SAMPLEWORD"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Special tenses","__BSUFIX"]
+,"lines":[
+  { "x":"            ","pre":"Gerund: __","a":"XXXXX"
+  ,		"apre":[""]}
+  ,{"x":"        ","pre":"Participle: __","a":"XXXXX"
+  ,		"apre":[""]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","THETENSE - TENSEMODE","__BSUFIX"]
+,"lines":[
+  { "x":"                 ","pre":"yo __","a":"XXXXX"
+  ,		"apre":["yo SAMPLEROOT"]}
+  ,{"x":"                 ","pre":"tú __","a":"XXXXX"
+  ,		"apre":["tú SAMPLEROOT"]}
+  ,{"x":"      ","pre":"él/ella/usted __","a":"XXXXX"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros __","a":"XXXXX"
+  ,		"apre":["nosotros SAMPLEROOT"]}
+  ,{"x":"           ","pre":"vosotros __","a":"XXXXX"
+  ,		"apre":["vosotros SAMPLEROOT"]}
+  ,{"x":"","pre":"ellos/ellas/ustedes __","a":"XXXXX"
+  ,		"apre":["ellos SAMPLEROOT","ellas SAMPLEROOT","ustedes SAMPLEROOT"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+]
