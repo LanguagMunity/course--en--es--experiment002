@@ -1,0 +1,168 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"por",
+  "a":"for / because of / by"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"for / because of / by",
+  "a":"por"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"qué",
+  "a":"what"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"what",
+  "a":"qué"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"me",
+  "a":"me / my"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"me / my",
+  "a":"me"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"una",
+  "a":"one / a (f)"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"one / a (f)",
+  "a":"una"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"te",
+  "a":"you / your"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"you / your",
+  "a":"te"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"los",
+  "a":"the (m) (pl)"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"the (m) (pl)",
+  "a":"los"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"con",
+  "a":"with"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"with",
+  "a":"con"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"para",
+  "a":"for / toward / in order to"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"for / toward / in order to",
+  "a":"para"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"mi",
+  "a":"my"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"my",
+  "a":"mi"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+]

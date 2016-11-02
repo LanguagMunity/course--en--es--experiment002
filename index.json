@@ -63,6 +63,14 @@
 }
 
 ,{
+  "id":"cr-0003"
+  ,"title":"Core Course - Lesson 3"
+  ,"dscrip":"Continuing the Core Course ..."
+  ,"prereq":["cr-0002"]
+  ,"txtres":["lcn/cr-0003.json"]
+}
+
+,{
   "id":"verb--estar--ser---intro"
   ,"title":"Defining verbs: ser and estar"
   ,"prereq":["newbie-x","deprecate"]
