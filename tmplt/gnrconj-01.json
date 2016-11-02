@@ -7,9 +7,9 @@
 ,"inst":["ds","Conjugate (regular verb template)","Special tenses","__BSUFIX"]
 ,"lines":[
   { "x":"            ","pre":"Gerund: __","a":"XXXXX"
-  ,		"apre":[""]}
+  ,		"apre":["SAMPLEROOT"]}
   ,{"x":"        ","pre":"Participle: __","a":"XXXXX"
-  ,		"apre":[""]}
+  ,		"apre":["SAMPLEROOT"]}
 ]
   ,"voca":{"typ":"synth"
     ,"lng":"es"

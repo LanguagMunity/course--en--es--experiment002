@@ -7,9 +7,9 @@
 ,"inst":["ds","Conjugate (regular verb template)","Special tenses","__ar"]
 ,"lines":[
   { "x":"            ","pre":"Gerund: __","a":"ando"
-  ,		"apre":[""]}
+  ,		"apre":["habl"]}
   ,{"x":"        ","pre":"Participle: __","a":"ado"
-  ,		"apre":[""]}
+  ,		"apre":["habl"]}
 ]
   ,"voca":{"typ":"synth"
     ,"lng":"es"
