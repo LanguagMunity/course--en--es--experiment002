@@ -27,7 +27,7 @@
   ,{"x":"                 ","pre":"tú __","a":"as"
   ,		"apre":["tú habl"]}
   ,{"x":"      ","pre":"él/ella/usted __","a":"a"
-  ,		"apre":["él ","ella ","usted "]}
+  ,		"apre":["él habl","ella habl","usted habl"]}
   ,{"x":"           ","pre":"nosotros __","a":"amos"
   ,		"apre":["nosotros habl"]}
   ,{"x":"           ","pre":"vosotros __","a":"áis"
@@ -55,7 +55,7 @@
   ,{"x":"                 ","pre":"tú __","a":"aste"
   ,		"apre":["tú habl"]}
   ,{"x":"      ","pre":"él/ella/usted __","a":"ó"
-  ,		"apre":["él ","ella ","usted "]}
+  ,		"apre":["él habl","ella habl","usted habl"]}
   ,{"x":"           ","pre":"nosotros __","a":"amos"
   ,		"apre":["nosotros habl"]}
   ,{"x":"           ","pre":"vosotros __","a":"asteis"
@@ -83,7 +83,7 @@
   ,{"x":"                 ","pre":"tú __","a":"abas"
   ,		"apre":["tú habl"]}
   ,{"x":"      ","pre":"él/ella/usted __","a":"aba"
-  ,		"apre":["él ","ella ","usted "]}
+  ,		"apre":["él habl","ella habl","usted habl"]}
   ,{"x":"           ","pre":"nosotros __","a":"ábamos"
   ,		"apre":["nosotros habl"]}
   ,{"x":"           ","pre":"vosotros __","a":"abais"

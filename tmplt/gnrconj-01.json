@@ -27,7 +27,7 @@
   ,{"x":"                 ","pre":"tú __","a":"XXXXX"
   ,		"apre":["tú SAMPLEROOT"]}
   ,{"x":"      ","pre":"él/ella/usted __","a":"XXXXX"
-  ,		"apre":["él ","ella ","usted "]}
+  ,		"apre":["él SAMPLEROOT","ella SAMPLEROOT","usted SAMPLEROOT"]}
   ,{"x":"           ","pre":"nosotros __","a":"XXXXX"
   ,		"apre":["nosotros SAMPLEROOT"]}
   ,{"x":"           ","pre":"vosotros __","a":"XXXXX"
