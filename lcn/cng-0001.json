@@ -31,10 +31,6 @@
   ,{"x":"","pre":"ellos/ellas/ustedes ","a":"__an"
   ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
-  ,"voca":{"typ":"synth"
-    ,"lng":"es"
-    ,"gnd":"r"
-  }
 }
 ,{"typ":"exrc","form":"blank"}
 ,{"typ":"exrc","form":"blank"}
@@ -55,10 +51,6 @@
   ,{"x":"","pre":"ellos/ellas/ustedes ","a":"__aron"
   ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
-  ,"voca":{"typ":"synth"
-    ,"lng":"es"
-    ,"gnd":"r"
-  }
 }
 ,{"typ":"exrc","form":"blank"}
 ,{"typ":"exrc","form":"blank"}
@@ -79,10 +71,6 @@
   ,{"x":"","pre":"ellos/ellas/ustedes ","a":"__aban"
   ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
-  ,"voca":{"typ":"synth"
-    ,"lng":"es"
-    ,"gnd":"r"
-  }
 }
 ,{"typ":"exrc","form":"blank"}
 ,{"typ":"exrc","form":"blank"}
