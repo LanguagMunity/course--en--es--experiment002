@@ -1,0 +1,134 @@
+[["cm"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Special tenses","estar"]
+,"lines":[
+  { "x":"            ","pre":"Gerund: ","a":"estando"
+  ,		"apre":[""]}
+  ,{"x":"        ","pre":"Participle: ","a":"estado"
+  ,		"apre":[""]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Special tenses","ser"]
+,"lines":[
+  { "x":"            ","pre":"Gerund: ","a":"siendo"
+  ,		"apre":[""]}
+  ,{"x":"        ","pre":"Participle: ","a":"sido"
+  ,		"apre":[""]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Present - Indicative","estar"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"estoy"}
+  ,{"x":"                 ","pre":"tú ","a":"estás"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"está"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"estamos"}
+  ,{"x":"           ","pre":"vosotros ","a":"estáis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"están"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"si",
+  "a":"if"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"if",
+  "a":"si"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"pero",
+  "a":"but"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"but",
+  "a":"pero"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"las",
+  "a":"the (f) (pl)"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"the (f) (pl)",
+  "a":"las"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"bien",
+  "a":"good / fine"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"good / fine",
+  "a":"bien"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+]
