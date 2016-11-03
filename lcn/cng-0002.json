@@ -1,0 +1,106 @@
+[["cm",
+"Template extracted from: comer"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Special tenses","__er"]
+,"lines":[
+  { "x":"            ","pre":"Gerund: __","a":"iendo"
+  ,		"apre":["com"]}
+  ,{"x":"        ","pre":"Participle: __","a":"ido"
+  ,		"apre":["com"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Present - Indicative","__er"]
+,"lines":[
+  { "x":"                 ","pre":"yo __","a":"o"
+  ,		"apre":["yo com"]}
+  ,{"x":"                 ","pre":"tú __","a":"es"
+  ,		"apre":["tú com"]}
+  ,{"x":"      ","pre":"él/ella/usted __","a":"e"
+  ,		"apre":["él com","ella com","usted com"]}
+  ,{"x":"           ","pre":"nosotros __","a":"emos"
+  ,		"apre":["nosotros com"]}
+  ,{"x":"           ","pre":"vosotros __","a":"éis"
+  ,		"apre":["vosotros com"]}
+  ,{"x":"","pre":"ellos/ellas/ustedes __","a":"en"
+  ,		"apre":["ellos com","ellas com","ustedes com"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Preterite - Indicative","__er"]
+,"lines":[
+  { "x":"                 ","pre":"yo __","a":"í"
+  ,		"apre":["yo com"]}
+  ,{"x":"                 ","pre":"tú __","a":"iste"
+  ,		"apre":["tú com"]}
+  ,{"x":"      ","pre":"él/ella/usted __","a":"ió"
+  ,		"apre":["él com","ella com","usted com"]}
+  ,{"x":"           ","pre":"nosotros __","a":"imos"
+  ,		"apre":["nosotros com"]}
+  ,{"x":"           ","pre":"vosotros __","a":"isteis"
+  ,		"apre":["vosotros com"]}
+  ,{"x":"","pre":"ellos/ellas/ustedes __","a":"ieron"
+  ,		"apre":["ellos com","ellas com","ustedes com"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Imperfect - Indicative","__er"]
+,"lines":[
+  { "x":"                 ","pre":"yo __","a":"ía"
+  ,		"apre":["yo com"]}
+  ,{"x":"                 ","pre":"tú __","a":"ías"
+  ,		"apre":["tú com"]}
+  ,{"x":"      ","pre":"él/ella/usted __","a":"ía"
+  ,		"apre":["él com","ella com","usted com"]}
+  ,{"x":"           ","pre":"nosotros __","a":"íamos"
+  ,		"apre":["nosotros com"]}
+  ,{"x":"           ","pre":"vosotros __","a":"íais"
+  ,		"apre":["vosotros com"]}
+  ,{"x":"","pre":"ellos/ellas/ustedes __","a":"ían"
+  ,		"apre":["ellos com","ellas com","ustedes com"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+]
