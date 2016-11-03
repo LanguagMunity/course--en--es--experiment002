@@ -74,7 +74,7 @@
   "id":"cr-0004"
   ,"title":"Core Course - Lesson 4"
   ,"dscrip":"Continuing the Core Course ..."
-  ,"prereq":["cr-0003"]
+  ,"prereq":["cng-0001","cr-0003"]
   ,"txtres":["lcn/cr-0004.json"]
 }
 
