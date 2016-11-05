@@ -1,0 +1,106 @@
+[["cm",
+"Template extracted from: vivir"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Special tenses","__ir"]
+,"lines":[
+  { "x":"            ","pre":"Gerund: __","a":"XXXXX"
+  ,		"apre":["viv"]}
+  ,{"x":"        ","pre":"Participle: __","a":"XXXXX"
+  ,		"apre":["viv"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Present - Indicative","__ir"]
+,"lines":[
+  { "x":"                 ","pre":"yo __","a":"o"
+  ,		"apre":["yo viv"]}
+  ,{"x":"                 ","pre":"tú __","a":"es"
+  ,		"apre":["tú viv"]}
+  ,{"x":"      ","pre":"él/ella/usted __","a":"e"
+  ,		"apre":["él viv","ella viv","usted viv"]}
+  ,{"x":"           ","pre":"nosotros __","a":"imos"
+  ,		"apre":["nosotros viv"]}
+  ,{"x":"           ","pre":"vosotros __","a":"ís"
+  ,		"apre":["vosotros viv"]}
+  ,{"x":"","pre":"ellos/ellas/ustedes __","a":"en"
+  ,		"apre":["ellos viv","ellas viv","ustedes viv"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Preterite - Indicative","__ir"]
+,"lines":[
+  { "x":"                 ","pre":"yo __","a":"í"
+  ,		"apre":["yo viv"]}
+  ,{"x":"                 ","pre":"tú __","a":"iste"
+  ,		"apre":["tú viv"]}
+  ,{"x":"      ","pre":"él/ella/usted __","a":"ió"
+  ,		"apre":["él viv","ella viv","usted viv"]}
+  ,{"x":"           ","pre":"nosotros __","a":"imos"
+  ,		"apre":["nosotros viv"]}
+  ,{"x":"           ","pre":"vosotros __","a":"isteis"
+  ,		"apre":["vosotros viv"]}
+  ,{"x":"","pre":"ellos/ellas/ustedes __","a":"ieron"
+  ,		"apre":["ellos viv","ellas viv","ustedes viv"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Imperfect - Indicative","__ir"]
+,"lines":[
+  { "x":"                 ","pre":"yo __","a":"ía"
+  ,		"apre":["yo viv"]}
+  ,{"x":"                 ","pre":"tú __","a":"ías"
+  ,		"apre":["tú viv"]}
+  ,{"x":"      ","pre":"él/ella/usted __","a":"ía"
+  ,		"apre":["él viv","ella viv","usted viv"]}
+  ,{"x":"           ","pre":"nosotros __","a":"íamos"
+  ,		"apre":["nosotros viv"]}
+  ,{"x":"           ","pre":"vosotros __","a":"íais"
+  ,		"apre":["vosotros viv"]}
+  ,{"x":"","pre":"ellos/ellas/ustedes __","a":"ían"
+  ,		"apre":["ellos viv","ellas viv","ustedes viv"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+]

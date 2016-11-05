@@ -1,0 +1,60 @@
+[["cm",
+"The sample verbs we will use to illustrate regular conjugation"]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"hablar",
+  "a":"to speak"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to speak",
+  "a":"hablar"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"comer",
+  "a":"to eat"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to eat",
+  "a":"comer"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"vivir",
+  "a":"to live"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to live",
+  "a":"vivir"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+]
