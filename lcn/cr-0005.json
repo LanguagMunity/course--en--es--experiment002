@@ -1,0 +1,160 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"yo",
+  "a":"I / me"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I / me",
+  "a":"yo"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"su",
+  "a":"his / her / it"
+  ,"o":[
+    ["- general (formal or informal) use"
+      ,"- strictly formal use"
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"his / her / it",
+  "a":"su"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"su",
+  "a":"- strictly formal use"
+  ,"o":[
+    ["- strictly formal use"
+      ,"his / her / it"
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"- strictly formal use",
+  "a":"su"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"eso",
+  "a":"that / this"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"that / this",
+  "a":"eso"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"aquí",
+  "a":"here"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"here",
+  "a":"aquí"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"al",
+  "a":"to the"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to the",
+  "a":"al"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"como",
+  "a":"like / as"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"like / as",
+  "a":"como"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"le",
+  "a":"him / her (obj)"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"him / her (obj)",
+  "a":"le"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+]

@@ -79,6 +79,22 @@
 }
 
 ,{
+  "id":"cr-0005"
+  ,"title":"Core Course - Lesson 4"
+  ,"dscrip":"Continuing the Core Course ..."
+  ,"prereq":["cng-0002","cr-0004"]
+  ,"txtres":["lcn/cr-0005.json"]
+}
+
+,{
+  "id":"cr-0006"
+  ,"title":"Core Course - Lesson 4"
+  ,"dscrip":"Continuing the Core Course ..."
+  ,"prereq":["cng-0003","cr-0005"]
+  ,"txtres":["lcn/cr-0006.json"]
+}
+
+,{
   "id":"verb--estar--ser---intro"
   ,"title":"Defining verbs: ser and estar"
   ,"prereq":["newbie-x","deprecate"]
@@ -181,6 +197,13 @@
   ,"title":"Conjugate: Indicative: Present, Preterite and Imperfect: Verbs ending in \"ir\""
   ,"prereq":["cng-0002","cr-0002","cng-0000"]
   ,"txtres":["lcn/cng-0003.json"]
+}
+
+,{
+  "id":"cng-0004"
+  ,"title":"Conjugate: Indicative: Conditional:"
+  ,"prereq":["cng-0003","cr-0003","cng-0000"]
+  ,"txtres":["lcn/cng-0004.json"]
 }
 
 ]}

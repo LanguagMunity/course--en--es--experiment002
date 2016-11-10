@@ -3,11 +3,53 @@
 
 #36: tu
 
+tu
+your
+(0+2=2)
+
 
 #37: más
 
+más
+- in mathematics
+plus
+- non-mathematical
+more
+(2+4=6)
+
 
 #38: todo
+
+todo
+all / every
+(6+2=8)
+
+
+#39: ya
+
+ya
+already
+(8+2=10)
+
+
+#40: muy
+
+muy
+very
+(10+2=12)
+
+
+#41: esto
+
+esto
+this
+(12+2=14)
+
+
+#42: vamos
+
+Here we break for the next lesson, because "vamos"
+is a form of "ir".
 
 
 

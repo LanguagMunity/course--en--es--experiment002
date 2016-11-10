@@ -1,0 +1,91 @@
+[["cm"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Conditional - Indicative","__ar"]
+,"lines":[
+  { "x":"                 ","pre":"yo __","a":"aría"
+  ,		"apre":["yo habl"]}
+  ,{"x":"                 ","pre":"tú __","a":"arías"
+  ,		"apre":["tú habl"]}
+  ,{"x":"      ","pre":"él/ella/usted __","a":"aría"
+  ,		"apre":["él habl","ella habl","usted habl"]}
+  ,{"x":"           ","pre":"nosotros __","a":"aríamos"
+  ,		"apre":["nosotros habl"]}
+  ,{"x":"           ","pre":"vosotros __","a":"aríais"
+  ,		"apre":["vosotros habl"]}
+  ,{"x":"","pre":"ellos/ellas/ustedes __","a":"arían"
+  ,		"apre":["ellos habl","ellas habl","ustedes habl"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Conditional - Indicative","__er"]
+,"lines":[
+  { "x":"                 ","pre":"yo __","a":"ería"
+  ,		"apre":["yo com"]}
+  ,{"x":"                 ","pre":"tú __","a":"erías"
+  ,		"apre":["tú com"]}
+  ,{"x":"      ","pre":"él/ella/usted __","a":"ería"
+  ,		"apre":["él com","ella com","usted com"]}
+  ,{"x":"           ","pre":"nosotros __","a":"eríamos"
+  ,		"apre":["nosotros com"]}
+  ,{"x":"           ","pre":"vosotros __","a":"eríais"
+  ,		"apre":["vosotros com"]}
+  ,{"x":"","pre":"ellos/ellas/ustedes __","a":"erían"
+  ,		"apre":["ellos com","ellas com","ustedes com"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Conditional - Indicative","__ir"]
+,"lines":[
+  { "x":"                 ","pre":"yo __","a":"iría"
+  ,		"apre":["yo viv"]}
+  ,{"x":"                 ","pre":"tú __","a":"irías"
+  ,		"apre":["tú viv"]}
+  ,{"x":"      ","pre":"él/ella/usted __","a":"iría"
+  ,		"apre":["él viv","ella viv","usted viv"]}
+  ,{"x":"           ","pre":"nosotros __","a":"iríamos"
+  ,		"apre":["nosotros viv"]}
+  ,{"x":"           ","pre":"vosotros __","a":"iríais"
+  ,		"apre":["vosotros viv"]}
+  ,{"x":"","pre":"ellos/ellas/ustedes __","a":"irían"
+  ,		"apre":["ellos viv","ellas viv","ustedes viv"]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+
+
+]

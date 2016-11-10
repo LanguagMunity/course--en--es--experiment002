@@ -1,0 +1,140 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"tu",
+  "a":"your"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"your",
+  "a":"tu"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"más",
+  "a":"plus"
+  ,"o":[
+    ["- in mathematics"
+      ,"more"
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"plus",
+  "a":"más"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"más",
+  "a":"more"
+  ,"o":[
+    ["- non-mathematical"
+      ,"plus"
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"more",
+  "a":"más"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"todo",
+  "a":"all / every"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"all / every",
+  "a":"todo"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"ya",
+  "a":"already"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"already",
+  "a":"ya"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"muy",
+  "a":"very"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"very",
+  "a":"muy"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"esto",
+  "a":"this"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"this",
+  "a":"esto"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+]
