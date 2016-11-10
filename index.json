@@ -110,7 +110,7 @@
 
 ,{
   "id":"verb--estar---indic02"
-  ,"title":"Verb: estar: Preterite - Indicative"
+  ,"title":"Verb: estar: Simple Past - Indicative"
   ,"prereq":["verb--estar---indic01","deprecate"]
   ,"txtres":["lcn/verb--estar---indic02.json"]
 }
@@ -145,7 +145,7 @@
 
 ,{
   "id":"verb--ser---indic02"
-  ,"title":"Verb: ser: Preterite - Indicative"
+  ,"title":"Verb: ser: Simple Past - Indicative"
   ,"prereq":["verb--ser---indic01","deprecate"]
   ,"txtres":["lcn/verb--ser---indic02.json"]
 }
@@ -180,21 +180,21 @@
 
 ,{
   "id":"cng-0001"
-  ,"title":"Conjugate: Indicative: Present, Preterite and Imperfect: Verbs ending in \"ar\""
+  ,"title":"Conjugate: Indicative: Present, Simple Past and Imperfect: Verbs ending in \"ar\""
   ,"prereq":["cr-0001","cng-0000"]
   ,"txtres":["lcn/cng-0001.json"]
 }
 
 ,{
   "id":"cng-0002"
-  ,"title":"Conjugate: Indicative: Present, Preterite and Imperfect: Verbs ending in \"er\""
+  ,"title":"Conjugate: Indicative: Present, Simple Past and Imperfect: Verbs ending in \"er\""
   ,"prereq":["cng-0001","cr-0002","cng-0000"]
   ,"txtres":["lcn/cng-0002.json"]
 }
 
 ,{
   "id":"cng-0003"
-  ,"title":"Conjugate: Indicative: Present, Preterite and Imperfect: Verbs ending in \"ir\""
+  ,"title":"Conjugate: Indicative: Present, Simple Past and Imperfect: Verbs ending in \"ir\""
   ,"prereq":["cng-0002","cr-0002","cng-0000"]
   ,"txtres":["lcn/cng-0003.json"]
 }
