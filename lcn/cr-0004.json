@@ -5,9 +5,9 @@
 ,{"typ":"exrc","form":"drill"
 ,"inst":["ds","Conjugate (regular verb template)","Special tenses","estar"]
 ,"lines":[
-  { "x":"                 ","pre":"Gerund: ","a":"estando"
+  { "x":"            ","pre":"Gerund: ","a":"estando"
   ,		"apre":[""]}
-  ,{"x":"        ","pre":"Past Participle: ","a":"estado"
+  ,{"x":"   ","pre":"Past Participle: ","a":"estado"
   ,		"apre":[""]}
 ]
   ,"voca":{"typ":"synth"
@@ -21,9 +21,9 @@
 ,{"typ":"exrc","form":"drill"
 ,"inst":["ds","Conjugate (regular verb template)","Special tenses","ser"]
 ,"lines":[
-  { "x":"                 ","pre":"Gerund: ","a":"siendo"
+  { "x":"            ","pre":"Gerund: ","a":"siendo"
   ,		"apre":[""]}
-  ,{"x":"        ","pre":"Past Participle: ","a":"sido"
+  ,{"x":"   ","pre":"Past Participle: ","a":"sido"
   ,		"apre":[""]}
 ]
   ,"voca":{"typ":"synth"

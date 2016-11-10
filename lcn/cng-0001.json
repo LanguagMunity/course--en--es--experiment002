@@ -6,9 +6,9 @@
 ,{"typ":"exrc","form":"drill"
 ,"inst":["ds","Conjugate (regular verb template)","Special tenses","__ar"]
 ,"lines":[
-  { "x":"                 ","pre":"Gerund: __","a":"ando"
+  { "x":"            ","pre":"Gerund: __","a":"ando"
   ,		"apre":["habl"]}
-  ,{"x":"        ","pre":"Past Participle: __","a":"ado"
+  ,{"x":"   ","pre":"Past Participle: __","a":"ado"
   ,		"apre":["habl"]}
 ]
   ,"voca":{"typ":"synth"
