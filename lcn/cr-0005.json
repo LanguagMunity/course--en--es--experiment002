@@ -24,7 +24,7 @@
   "typ":"smtx",
   "lang":["es","en"],
   "q":"su",
-  "a":"his / her / it"
+  "a":"his / her / its"
   ,"o":[
     ["- general (formal or informal) use"
       ,"your"
@@ -34,7 +34,7 @@
 ,{
   "typ":"smtx",
   "lang":["en","es"],
-  "q":"his / her / it",
+  "q":"his / her / its",
   "a":"su"
   ,"voca":{"typ":"synth"
     ,"lng":"es"
@@ -50,7 +50,7 @@
   "a":"your"
   ,"o":[
     ["- strictly formal use"
-      ,"his / her / it"
+      ,"his / her / its"
     ]
   ]
 }
