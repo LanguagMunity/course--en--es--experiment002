@@ -6,9 +6,9 @@
 ,{"typ":"exrc","form":"drill"
 ,"inst":["ds","Conjugate (regular verb template)","Special tenses","__BSUFIX"]
 ,"lines":[
-  { "x":"            ","pre":"Gerund: __","a":"XXXXX"
+  { "x":"                 ","pre":"Gerund: __","a":"XXXXX"
   ,		"apre":["SAMPLEROOT"]}
-  ,{"x":"        ","pre":"Participle: __","a":"XXXXX"
+  ,{"x":"        ","pre":"Past Participle: __","a":"XXXXX"
   ,		"apre":["SAMPLEROOT"]}
 ]
   ,"voca":{"typ":"synth"
