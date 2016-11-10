@@ -27,7 +27,7 @@
   "a":"his / her / it"
   ,"o":[
     ["- general (formal or informal) use"
-      ,"- strictly formal use"
+      ,"your"
     ]
   ]
 }
@@ -47,7 +47,7 @@
   "typ":"smtx",
   "lang":["es","en"],
   "q":"su",
-  "a":"- strictly formal use"
+  "a":"your"
   ,"o":[
     ["- strictly formal use"
       ,"his / her / it"
@@ -57,8 +57,13 @@
 ,{
   "typ":"smtx",
   "lang":["en","es"],
-  "q":"- strictly formal use",
+  "q":"your",
   "a":"su"
+  ,"o":[
+    ["- formal please"
+      ,"tu"
+    ]
+  ]
   ,"voca":{"typ":"synth"
     ,"lng":"es"
     ,"gnd":"r"

@@ -13,6 +13,11 @@
   "lang":["en","es"],
   "q":"your",
   "a":"tu"
+  ,"o":[
+    ["- general form"
+      ,"su"
+    ]
+  ]
   ,"voca":{"typ":"synth"
     ,"lng":"es"
     ,"gnd":"r"
