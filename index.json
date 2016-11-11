@@ -95,6 +95,14 @@
 }
 
 ,{
+  "id":"cr-0007"
+  ,"title":"Core Course - Lesson 4"
+  ,"dscrip":"Continuing the Core Course ..."
+  ,"prereq":["cng-0004","cr-0006"]
+  ,"txtres":["lcn/cr-0007.json"]
+}
+
+,{
   "id":"verb--estar--ser---intro"
   ,"title":"Defining verbs: ser and estar"
   ,"prereq":["newbie-x","deprecate"]

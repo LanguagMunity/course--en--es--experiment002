@@ -1,0 +1,85 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"ir",
+  "a":"to go"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"to go",
+  "a":"ir"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Special tenses","ir"]
+,"lines":[
+  { "x":"            ","pre":"Gerund: ","a":"yendo"
+  ,		"apre":[""]}
+  ,{"x":"   ","pre":"Past Participle: ","a":"ido"
+  ,		"apre":[""]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Present - Indicative","ir"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"voy"}
+  ,{"x":"                 ","pre":"tú ","a":"vas"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"va"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"vamos"}
+  ,{"x":"           ","pre":"vosotros ","a":"vais"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"van"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate (regular verb template)","Imperative","ir"]
+,"lines":[
+  { "x":"                 ","pre":"tú ","a":"ve"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"vaya"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"vayamos"}
+  ,{"x":"           ","pre":"vosotros ","a":"id"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"vayan"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+]

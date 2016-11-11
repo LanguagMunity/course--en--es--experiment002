@@ -1,14 +1,17 @@
 
+ir - to go
+
+
 Basics
-- Definition
-- Special
+- Definition	7
+- Special		7
 
 Indicative
-- Present
+- Present		7
 - Perterite
 - Imperfect
-- Conditional
-- Future
+- Conditional	(regular)
+- Future		(regular)
 
 Subjunctive
 - Present
@@ -16,9 +19,10 @@ Subjunctive
 - Future
 
 - Imperative
--- Imperative
+-- Imperative	7
 
 
 Subjunctive
 - Rare Imperfect
+
 
