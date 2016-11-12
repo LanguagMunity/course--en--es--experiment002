@@ -5,7 +5,7 @@ Indicative
 - Perterite		1-3
 - Imperfect		1-3
 - Conditional	4
-- Future
+- Future		5
 
 Subjunctive
 - Present

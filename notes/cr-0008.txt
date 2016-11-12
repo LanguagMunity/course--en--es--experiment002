@@ -1,26 +1,8 @@
 
 #43: ha
 ha = a form of "haber"
-
-haber
-to have (as in "to have done")
-(0+2=2)
-
-Special tenses:
-(2+2=4)
-
-Present
-(4+6=10)
-
-Also - let us define "hay", which is technically
-an alternative third-person indicative present singular
-form of "haber" --- but to avoid confusion will not
-be presented as such. Due to it's technical relation
-to "haber", it should be presented in the same
-lesson as the rest of the indicative present.
-
-But no need to change the order - because it anyways
-will be in this lesson.
+Actually -- we have decided to put "haber" in one of
+the conjugation lessons.
 
 
 #43: ahora
@@ -30,6 +12,9 @@ will be in this lesson.
 
 
 #45: hay
+Hay, being technically (even if not practically) a from
+of "haber" goes into the very first conjugation lesson
+involving "haber".
 
 hay
 there is / there are

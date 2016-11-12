@@ -4,7 +4,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Special tenses","THEWORD"]
+,"inst":["ds","Conjugate","Special tenses","THEWORD"]
 ,"lines":[
   { "x":"            ","pre":"Gerund: ","a":"xxxxxx"
   ,		"apre":[""]}
@@ -20,7 +20,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","THETENSE - TENSEMODE","THEWORD"]
+,"inst":["ds","Conjugate","THETENSE - TENSEMODE","THEWORD"]
 ,"lines":[
   { "x":"                 ","pre":"yo ","a":"xxxxxx"}
   ,{"x":"                 ","pre":"tú ","a":"xxxxxx"}

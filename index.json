@@ -196,22 +196,29 @@
 ,{
   "id":"cng-0002"
   ,"title":"Conjugate: Indicative: Present, Simple Past and Imperfect: Verbs ending in \"er\""
-  ,"prereq":["cng-0001","cr-0002","cng-0000"]
+  ,"prereq":["cng-0001","cng-0000"]
   ,"txtres":["lcn/cng-0002.json"]
 }
 
 ,{
   "id":"cng-0003"
   ,"title":"Conjugate: Indicative: Present, Simple Past and Imperfect: Verbs ending in \"ir\""
-  ,"prereq":["cng-0002","cr-0002","cng-0000"]
+  ,"prereq":["cng-0002","cng-0000"]
   ,"txtres":["lcn/cng-0003.json"]
 }
 
 ,{
   "id":"cng-0004"
   ,"title":"Conjugate: Indicative: Conditional:"
-  ,"prereq":["cng-0003","cr-0003","cng-0000"]
+  ,"prereq":["cng-0003","cng-0000"]
   ,"txtres":["lcn/cng-0004.json"]
+}
+
+,{
+  "id":"cng-0005"
+  ,"title":"Conjugate: Indicative: Conditional:"
+  ,"prereq":["cng-0004"]
+  ,"txtres":["lcn/cng-0005.json"]
 }
 
 ]}

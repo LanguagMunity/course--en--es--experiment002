@@ -1,0 +1,41 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"SPANISH",
+  "a":"ENGLISH"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"ENGLISH",
+  "a":"SPANISH"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"SPANISH",
+  "a":"ENGLISH"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"ENGLISH",
+  "a":"SPANISH"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+]
