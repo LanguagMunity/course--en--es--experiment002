@@ -1,0 +1,27 @@
+
+estar
+to be (Well --- one of the forms)
+
+Basics
+- Definition	cr:2
+- Special		cr:4
+
+Indicative
+- Present		cr:4
+- Simple Past	ex:1
+- Imperfect
+- Conditional
+- Future
+
+Subjunctive
+- Present
+- Imperfect
+- Future
+
+- Imperative
+-- Imperative
+
+
+Subjunctive
+- Rare Imperfect
+

@@ -3,7 +3,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Future - Indicative","__ar"]
+,"inst":["ds","Conjugate","Future - Indicative","__ar"]
 ,"lines":[
   { "x":"                 ","pre":"yo __","a":"aré"
   ,		"apre":["yo habl"]}
@@ -31,7 +31,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Future - Indicative","__er"]
+,"inst":["ds","Conjugate","Future - Indicative","__er"]
 ,"lines":[
   { "x":"                 ","pre":"yo __","a":"eré"
   ,		"apre":["yo com"]}
@@ -59,7 +59,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Future - Indicative","__ir"]
+,"inst":["ds","Conjugate","Future - Indicative","__ir"]
 ,"lines":[
   { "x":"                 ","pre":"yo __","a":"iré"
   ,		"apre":["yo viv"]}

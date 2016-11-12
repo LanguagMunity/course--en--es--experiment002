@@ -39,9 +39,9 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate","Special tenses","haber"]
+,"inst":["ds","Conjugate","Participles","haber"]
 ,"lines":[
-  { "x":"            ","pre":"Gerund: ","a":"xxxxxx"
+  { "x":"","pre":"Present Participle: ","a":"xxxxxx"
   ,		"apre":[""]}
   ,{"x":"   ","pre":"Past Participle: ","a":"xxxxxx"
   ,		"apre":[""]}

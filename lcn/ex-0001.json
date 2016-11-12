@@ -1,15 +1,18 @@
-[["cm",
-"Template extracted from: SOURCEWORD"
+[["cm"
 ]
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate","Participles","THEWORD"]
+,"inst":["ds","Conjugate","THETENSE - Indicative","estar"]
 ,"lines":[
-  { "x":"","pre":"Present Participle: ","a":"xxxxxx"
-  ,		"apre":[""]}
-  ,{"x":"   ","pre":"Past Participle: ","a":"xxxxxx"
-  ,		"apre":[""]}
+  { "x":"                 ","pre":"yo ","a":"estuve"}
+  ,{"x":"                 ","pre":"tú ","a":"estuviste"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"estuvo"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"estuvimos"}
+  ,{"x":"           ","pre":"vosotros ","a":"estuvisteis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"estuvieron"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
   ,"voca":{"typ":"synth"
     ,"lng":"es"
@@ -17,10 +20,14 @@
   }
 }
 ,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate","THETENSE - TENSEMODE","THEWORD"]
+,"inst":["ds","Conjugate","THETENSE - Subjunctive","estar"]
 ,"lines":[
   { "x":"                 ","pre":"yo ","a":"xxxxxx"}
   ,{"x":"                 ","pre":"tú ","a":"xxxxxx"}
@@ -41,6 +48,8 @@
 ,{"typ":"exrc","form":"blank"}
 ,{"typ":"exrc","form":"blank"}
 ,{"typ":"exrc","form":"blank"}
+
+
 
 
 ]

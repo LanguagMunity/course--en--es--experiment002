@@ -21,9 +21,9 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Special tenses","ir"]
+,"inst":["ds","Conjugate","Participles","ir"]
 ,"lines":[
-  { "x":"            ","pre":"Gerund: ","a":"yendo"
+  { "x":"","pre":"Present Participle: ","a":"yendo"
   ,		"apre":[""]}
   ,{"x":"   ","pre":"Past Participle: ","a":"ido"
   ,		"apre":[""]}
@@ -37,7 +37,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Present - Indicative","ir"]
+,"inst":["ds","Conjugate","Present - Indicative","ir"]
 ,"lines":[
   { "x":"                 ","pre":"yo ","a":"voy"}
   ,{"x":"                 ","pre":"tú ","a":"vas"}
@@ -61,7 +61,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Imperative","ir"]
+,"inst":["ds","Conjugate","Imperative","ir"]
 ,"lines":[
   { "x":"                 ","pre":"tú ","a":"ve"}
   ,{"x":"      ","pre":"él/ella/usted ","a":"vaya"

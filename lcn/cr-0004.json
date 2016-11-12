@@ -3,9 +3,9 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Special tenses","estar"]
+,"inst":["ds","Conjugate","Participles","estar"]
 ,"lines":[
-  { "x":"            ","pre":"Gerund: ","a":"estando"
+  { "x":"","pre":"Present Participle: ","a":"estando"
   ,		"apre":[""]}
   ,{"x":"   ","pre":"Past Participle: ","a":"estado"
   ,		"apre":[""]}
@@ -19,9 +19,9 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Special tenses","ser"]
+,"inst":["ds","Conjugate","Participles","ser"]
 ,"lines":[
-  { "x":"            ","pre":"Gerund: ","a":"siendo"
+  { "x":"","pre":"Present Participle: ","a":"siendo"
   ,		"apre":[""]}
   ,{"x":"   ","pre":"Past Participle: ","a":"sido"
   ,		"apre":[""]}

@@ -4,9 +4,9 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Special tenses","__ir"]
+,"inst":["ds","Conjugate","Participles","__ir"]
 ,"lines":[
-  { "x":"            ","pre":"Gerund: __","a":"iendo"
+  { "x":"","pre":"Present Participle: __","a":"iendo"
   ,		"apre":["viv"]}
   ,{"x":"   ","pre":"Past Participle: __","a":"ido"
   ,		"apre":["viv"]}
@@ -20,7 +20,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Present - Indicative","__ir"]
+,"inst":["ds","Conjugate","Present - Indicative","__ir"]
 ,"lines":[
   { "x":"                 ","pre":"yo __","a":"o"
   ,		"apre":["yo viv"]}
@@ -48,7 +48,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Simple Past - Indicative","__ir"]
+,"inst":["ds","Conjugate","Simple Past - Indicative","__ir"]
 ,"lines":[
   { "x":"                 ","pre":"yo __","a":"í"
   ,		"apre":["yo viv"]}
@@ -76,7 +76,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Imperfect - Indicative","__ir"]
+,"inst":["ds","Conjugate","Imperfect - Indicative","__ir"]
 ,"lines":[
   { "x":"                 ","pre":"yo __","a":"ía"
   ,		"apre":["yo viv"]}

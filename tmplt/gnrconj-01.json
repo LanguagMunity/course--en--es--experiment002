@@ -4,9 +4,9 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Special tenses","__BSUFIX"]
+,"inst":["ds","Conjugate","Participles","__BSUFIX"]
 ,"lines":[
-  { "x":"            ","pre":"Gerund: __","a":"XXXXX"
+  { "x":"","pre":"Present Participle: __","a":"XXXXX"
   ,		"apre":["SAMPLEROOT"]}
   ,{"x":"   ","pre":"Past Participle: __","a":"XXXXX"
   ,		"apre":["SAMPLEROOT"]}
@@ -20,7 +20,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","THETENSE - TENSEMODE","__BSUFIX"]
+,"inst":["ds","Conjugate","THETENSE - TENSEMODE","__BSUFIX"]
 ,"lines":[
   { "x":"                 ","pre":"yo __","a":"XXXXX"
   ,		"apre":["yo SAMPLEROOT"]}

@@ -3,7 +3,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Conditional - Indicative","__ar"]
+,"inst":["ds","Conjugate","Conditional - Indicative","__ar"]
 ,"lines":[
   { "x":"                 ","pre":"yo __","a":"aría"
   ,		"apre":["yo habl"]}
@@ -31,7 +31,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Conditional - Indicative","__er"]
+,"inst":["ds","Conjugate","Conditional - Indicative","__er"]
 ,"lines":[
   { "x":"                 ","pre":"yo __","a":"ería"
   ,		"apre":["yo com"]}
@@ -59,7 +59,7 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate (regular verb template)","Conditional - Indicative","__ir"]
+,"inst":["ds","Conjugate","Conditional - Indicative","__ir"]
 ,"lines":[
   { "x":"                 ","pre":"yo __","a":"iría"
   ,		"apre":["yo viv"]}
