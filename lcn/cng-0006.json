@@ -5,14 +5,14 @@
 ,{
   "typ":"smtx",
   "lang":["es","en"],
-  "q":"SPANISH",
-  "a":"ENGLISH"
+  "q":"haber",
+  "a":"to have (as in: to have done)"
 }
 ,{
   "typ":"smtx",
   "lang":["en","es"],
-  "q":"ENGLISH",
-  "a":"SPANISH"
+  "q":"to have (as in: to have done)",
+  "a":"haber"
   ,"voca":{"typ":"synth"
     ,"lng":"es"
     ,"gnd":"r"
@@ -23,19 +23,83 @@
 ,{
   "typ":"smtx",
   "lang":["es","en"],
-  "q":"SPANISH",
-  "a":"ENGLISH"
+  "q":"hay",
+  "a":"there is / there are"
 }
 ,{
   "typ":"smtx",
   "lang":["en","es"],
-  "q":"ENGLISH",
-  "a":"SPANISH"
+  "q":"there is / there are",
+  "a":"hay"
   ,"voca":{"typ":"synth"
     ,"lng":"es"
     ,"gnd":"r"
   }
 }
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Special tenses","haber"]
+,"lines":[
+  { "x":"            ","pre":"Gerund: ","a":"xxxxxx"
+  ,		"apre":[""]}
+  ,{"x":"   ","pre":"Past Participle: ","a":"xxxxxx"
+  ,		"apre":[""]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Present - Indicative","haber"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"he"}
+  ,{"x":"                 ","pre":"tú ","a":"has"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"ha"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"hemos"}
+  ,{"x":"           ","pre":"vosotros ","a":"habéis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"han"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Simple Past - Indicative","haber"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"hube"}
+  ,{"x":"                 ","pre":"tú ","a":"hubiste"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"hubo"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"hubimos"}
+  ,{"x":"           ","pre":"vosotros ","a":"hubisteis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"hubieron"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
 
 
 ]

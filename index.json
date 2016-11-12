@@ -216,9 +216,16 @@
 
 ,{
   "id":"cng-0005"
-  ,"title":"Conjugate: Indicative: Conditional:"
+  ,"title":"Conjugate: Indicative: Future:"
   ,"prereq":["cng-0004"]
   ,"txtres":["lcn/cng-0005.json"]
+}
+
+,{
+  "id":"cng-0006"
+  ,"title":"Conjugate: Indicative: Present and Simple Past: haber"
+  ,"prereq":["cng-0005"]
+  ,"txtres":["lcn/cng-0006.json"]
 }
 
 ]}
