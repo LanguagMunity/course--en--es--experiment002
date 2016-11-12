@@ -146,6 +146,24 @@
 ,{
   "typ":"smtx",
   "lang":["es","en"],
+  "q":"cómo",
+  "a":"how"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"how",
+  "a":"cómo"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
   "q":"le",
   "a":"him / her (obj)"
 }
