@@ -3,12 +3,12 @@ ir - to go
 
 
 Basics
-- Definition	7
-- Special		7
+- Definition	cr:7
+- Special		cr:7
 
 Indicative
-- Present		7
-- Perterite
+- Present		cr:7
+- Simple Past
 - Imperfect
 - Conditional	(regular)
 - Future		(regular)
@@ -19,7 +19,7 @@ Subjunctive
 - Future
 
 - Imperative
--- Imperative	7
+-- Imperative	cr:7
 
 
 Subjunctive
