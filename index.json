@@ -24,6 +24,12 @@
 
 {
   "id":"newbie-001"
+  ,"lect":[
+    {
+      "typ":"relhtm",
+      "loc":"lecto/first-intro.html"
+    }
+  ]
   ,"title":"Newbie Expressions Part 1"
   ,"dscrip":"The unit on Newbie Expressions is designed to teach you a sub-set\nof Spanish that you can use to excuse yourself and ask for certain\nconsiderations on account of not knowing more Spanish than that.\nIt is important to start with that because you can't wait until\nyou're fluent in Spanish to start your immersion."
   ,"prereq":[]
