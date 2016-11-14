@@ -27,15 +27,15 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate","THETENSE - Subjunctive","estar"]
+,"inst":["ds","Conjugate","Simple Past - Indicative","ser"]
 ,"lines":[
-  { "x":"                 ","pre":"yo ","a":"xxxxxx"}
-  ,{"x":"                 ","pre":"tú ","a":"xxxxxx"}
-  ,{"x":"      ","pre":"él/ella/usted ","a":"xxxxxx"
+  { "x":"                 ","pre":"yo ","a":"fui"}
+  ,{"x":"                 ","pre":"tú ","a":"fuiste"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"fue"
   ,		"apre":["él ","ella ","usted "]}
-  ,{"x":"           ","pre":"nosotros ","a":"xxxxxx"}
-  ,{"x":"           ","pre":"vosotros ","a":"xxxxxx"}
-  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"xxxxxx"
+  ,{"x":"           ","pre":"nosotros ","a":"fuimos"}
+  ,{"x":"           ","pre":"vosotros ","a":"fuisteis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"fueron"
   ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
   ,"voca":{"typ":"synth"
@@ -48,6 +48,42 @@
 ,{"typ":"exrc","form":"blank"}
 ,{"typ":"exrc","form":"blank"}
 ,{"typ":"exrc","form":"blank"}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"mientras",
+  "a":"while"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"while",
+  "a":"mientras"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"alguien",
+  "a":"someone"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"someone",
+  "a":"alguien"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
 
 
 
