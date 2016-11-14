@@ -9,9 +9,9 @@ Basics
 Indicative
 - Present		cr:4
 - Simple Past	ex:1
-- Imperfect
-- Conditional
-- Future
+- Imperfect		(regular)
+- Conditional	(regular)
+- Future		(regular)
 
 Subjunctive
 - Present
