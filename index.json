@@ -18,7 +18,8 @@
 ,"replace":{
 		"verb--estar--ser---intro":[]
 	,	"verb--estar---indic01":[]
-	,	"cr-0004":["cr-0004a","cr-0004.5"]
+	,	"cr-0004":["cr-0004a","cr-0004.2","cr-0004.5a","cr-0004.7"]
+	,	"cr-0004.5":["cr-0004.2","cr-0004.5a","cr-0004.7"]
 }
 ,"lcnx":[
 
@@ -87,19 +88,37 @@
 }
 
 ,{
-  "id":"cr-0004.5"
-  ,"note":"Created: 2016-11-14"
-  ,"title":"Core Course - Lesson 4"
+  "id":"cr-0004.2"
+  ,"note":"Created: 2016-11-17"
+  ,"title":"Core Course - Lesson 4.2"
   ,"dscrip":"Continuing the Core Course ..."
   ,"prereq":["cng-0001","cr-0004a"]
+  ,"txtres":["lcn/cr-0004-2.json"]
+}
+
+,{
+  "id":"cr-0004.5a"
+  ,"note":"Renamed: 2016-11-17"
+  ,"title":"Core Course - Lesson 4.5"
+  ,"dscrip":"Continuing the Core Course ..."
+  ,"prereq":["cng-0001","cr-0004.2"]
   ,"txtres":["lcn/cr-0004-5.json"]
+}
+
+,{
+  "id":"cr-0004.7"
+  ,"note":"Created: 2016-11-17"
+  ,"title":"Core Course - Lesson 4.7"
+  ,"dscrip":"Continuing the Core Course ..."
+  ,"prereq":["cng-0001","cr-0004.5a"]
+  ,"txtres":["lcn/cr-0004-7.json"]
 }
 
 ,{
   "id":"cr-0005"
   ,"title":"Core Course - Lesson 4"
   ,"dscrip":"Continuing the Core Course ..."
-  ,"prereq":["cng-0002","cr-0004.5"]
+  ,"prereq":["cng-0002","cr-0004.7"]
   ,"txtres":["lcn/cr-0005.json"]
 }
 
