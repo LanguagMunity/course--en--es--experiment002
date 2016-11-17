@@ -3,15 +3,15 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate","Imperfect - Indicative","estar"]
+,"inst":["ds","Conjugate","Simple Past - Indicative","estar"]
 ,"lines":[
-  { "x":"                 ","pre":"yo ","a":"estaba"}
-  ,{"x":"                 ","pre":"tú ","a":"estabas"}
-  ,{"x":"      ","pre":"él/ella/usted ","a":"estaba"
+  { "x":"                 ","pre":"yo ","a":"estuve"}
+  ,{"x":"                 ","pre":"tú ","a":"estuviste"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"estuvo"
   ,		"apre":["él ","ella ","usted "]}
-  ,{"x":"           ","pre":"nosotros ","a":"estábamos"}
-  ,{"x":"           ","pre":"vosotros ","a":"estabais"}
-  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"estaban"
+  ,{"x":"           ","pre":"nosotros ","a":"estuvimos"}
+  ,{"x":"           ","pre":"vosotros ","a":"estuvisteis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"estuvieron"
   ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
   ,"voca":{"typ":"synth"
@@ -27,15 +27,15 @@
 
 
 ,{"typ":"exrc","form":"drill"
-,"inst":["ds","Conjugate","Imperfect - Indicative","ser"]
+,"inst":["ds","Conjugate","Simple Past - Indicative","ser"]
 ,"lines":[
-  { "x":"                 ","pre":"yo ","a":"era"}
-  ,{"x":"                 ","pre":"tú ","a":"eras"}
-  ,{"x":"      ","pre":"él/ella/usted ","a":"era"
+  { "x":"                 ","pre":"yo ","a":"fui"}
+  ,{"x":"                 ","pre":"tú ","a":"fuiste"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"fue"
   ,		"apre":["él ","ella ","usted "]}
-  ,{"x":"           ","pre":"nosotros ","a":"éramos"}
-  ,{"x":"           ","pre":"vosotros ","a":"erais"}
-  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"eran"
+  ,{"x":"           ","pre":"nosotros ","a":"fuimos"}
+  ,{"x":"           ","pre":"vosotros ","a":"fuisteis"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"fueron"
   ,		"apre":["ellos ","ellas ","ustedes "]}
 ]
   ,"voca":{"typ":"synth"
@@ -53,14 +53,14 @@
 ,{
   "typ":"smtx",
   "lang":["es","en"],
-  "q":"hacia",
-  "a":"toward / to"
+  "q":"mientras",
+  "a":"while"
 }
 ,{
   "typ":"smtx",
   "lang":["en","es"],
-  "q":"toward / to",
-  "a":"hacia"
+  "q":"while",
+  "a":"mientras"
   ,"voca":{"typ":"synth"
     ,"lng":"es"
     ,"gnd":"r"
@@ -71,19 +71,21 @@
 ,{
   "typ":"smtx",
   "lang":["es","en"],
-  "q":"después de",
-  "a":"after"
+  "q":"alguien",
+  "a":"someone"
 }
 ,{
   "typ":"smtx",
   "lang":["en","es"],
-  "q":"after",
-  "a":"después de"
+  "q":"someone",
+  "a":"alguien"
   ,"voca":{"typ":"synth"
     ,"lng":"es"
     ,"gnd":"r"
   }
 }
+
+
 
 
 ]
