@@ -1,0 +1,108 @@
+
+.lectdoc {
+	background-color: red;
+	color: #000000;
+}
+
+.lecthead {
+	text-align: center;
+	background-color: #FFEEAA;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 15;
+}
+
+.lecthead::before {
+	font-size: 120%;
+	font-weight: bold;
+	content: "LanguaMunity Spanish - Mark 2";
+}
+
+.lectlcname {
+	font-size: 200%;
+	font-weight: bold;
+	padding-top: 10px;
+	vertical-align: middle;
+}
+
+.lecttitle {
+	font-size: 200%;
+	font-weight: bold;
+	padding-top: 10px;
+	vertical-align: middle;
+}
+
+.lectlcname::before {
+	font-size: 80%;
+	content: "Lesson: ";
+}
+
+.chaphead {
+	background-color: #FFDDAA;
+	padding: 10px;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 15px;
+}
+
+.chaptitle {
+	font-size: 150%;
+	font-weight: bold;
+	padding-top: 10px;
+	vertical-align: middle;
+}
+
+.chapbody {
+	background-color: #FFEEAA;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 15px;
+}
+
+p.first {
+	font-size: 105%;
+}
+
+p.sectfirst {
+	font-size: 105%;
+}
+
+p.yada {
+	font-size: 130%;
+	font-style: italic;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 15px;
+	background-color: #FFDDAA;
+}
+
+span.strg {
+	font-weight: bold;
+	background-color: #FFDDAA;
+	color: #000000;
+}
+
+span.strg::before {
+	color: #FF0000;
+	content: "<";
+}
+
+span.strg::after {
+	color: #FF0000;
+	content: ">";
+}
+
+span.stxlit {
+	// Goes within span.strg to denote that the substring
+	// shown here is a proxy for a variable part of the
+	// greater string.
+	font-weight: lightest;
+	font-style: italic;
+	color: #DD0000;
+}
+
+
