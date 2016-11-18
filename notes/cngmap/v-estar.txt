@@ -8,10 +8,10 @@ Basics
 
 Indicative
 - Present		cr:4
-- Simple Past	ex:1
-- Imperfect		(regular)
+- Simple Past	cr:4.2
+- Imperfect		(regular) cr:4.5
 - Conditional	(regular)
-- Future		(regular)
+- Future		(regular) cr:4.7
 
 Subjunctive
 - Present
