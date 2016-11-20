@@ -20,6 +20,7 @@
 	,	"verb--estar---indic01":[]
 	,	"cr-0004":["cr-0004a","cr-0004.2","cr-0004.5a","cr-0004.7"]
 	,	"cr-0004.5":["cr-0004.2","cr-0004.5a","cr-0004.7"]
+	,	"cr-0005":["cr-0005a","cr-0005.5"]
 }
 ,"lcnx":[
 
@@ -115,7 +116,8 @@
 }
 
 ,{
-  "id":"cr-0005"
+  "id":"cr-0005a"
+  ,"note":"Renamed: 2016-11-19"
   ,"title":"Core Course - Lesson 4"
   ,"dscrip":"Continuing the Core Course ..."
   ,"prereq":["cng-0002","cr-0004.7"]
@@ -123,10 +125,19 @@
 }
 
 ,{
+  "id":"cr-0005.5"
+  ,"note":"Created: 2016-11-19"
+  ,"title":"Core Course - Lesson 4"
+  ,"dscrip":"Continuing the Core Course ..."
+  ,"prereq":["cng-0002","cr-0005a"]
+  ,"txtres":["lcn/cr-0005.json"]
+}
+
+,{
   "id":"cr-0006"
   ,"title":"Core Course - Lesson 4"
   ,"dscrip":"Continuing the Core Course ..."
-  ,"prereq":["cng-0003","cr-0005"]
+  ,"prereq":["cng-0003","cr-0005.5"]
   ,"txtres":["lcn/cr-0006.json"]
 }
 

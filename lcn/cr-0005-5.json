@@ -1,0 +1,54 @@
+[["cm"
+]
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Conditional - Indicative","estar"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"estaría"}
+  ,{"x":"                 ","pre":"tú ","a":"estarías"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"estaría"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"estaríamos"}
+  ,{"x":"           ","pre":"vosotros ","a":"estaríais"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"estarían"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+,{"typ":"exrc","form":"drill"
+,"inst":["ds","Conjugate","Conditional - Indicative","ser"]
+,"lines":[
+  { "x":"                 ","pre":"yo ","a":"sería"}
+  ,{"x":"                 ","pre":"tú ","a":"serías"}
+  ,{"x":"      ","pre":"él/ella/usted ","a":"sería"
+  ,		"apre":["él ","ella ","usted "]}
+  ,{"x":"           ","pre":"nosotros ","a":"seríamos"}
+  ,{"x":"           ","pre":"vosotros ","a":"seríais"}
+  ,{"x":"","pre":"ellos/ellas/ustedes ","a":"serían"
+  ,		"apre":["ellos ","ellas ","ustedes "]}
+]
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+,{"typ":"exrc","form":"blank"}
+
+
+
+]
