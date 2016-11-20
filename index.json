@@ -58,6 +58,12 @@
 ,{
   "id":"cr-0001"
   ,"title":"Core Course - Lesson 1"
+  ,"lect":[
+    {
+      "typ":"relhtm",
+      "loc":"lecto/cr-0001/index.html"
+    }
+  ]
   ,"dscrip":"The Core Course is a tour through the language focused on the\nmost commonly-used words first. It is not, however, a so-called\n\"core vocabulary\" approach to the language. Yes, it uses\ndata collected for the purpose of that approach in it's\nformulation - but merely as a guide. It treats every part of\nthe language, however, with more sensitivity than a 'core\nvocabulary' approach does.\n\nRemember that the LanguaMunity program is not a full course\nin any language - but is intended as a tool to be used in\nconjunction with immersion."
   ,"prereq":["newbie-x"]
   ,"txtres":["lcn/cr-0001.json"]

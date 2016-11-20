@@ -9,7 +9,7 @@
 	background-color: #FFEEAA;
 	padding: 10px;
 	margin: 10px;
-	border-radius: 15;
+	border-radius: 15px;
 }
 
 .lecthead::before {
@@ -37,6 +37,19 @@
 	content: "Lesson: ";
 }
 
+.topnav {
+	background-color: #FFCC99;
+	border-radius: 15px;
+	padding: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.headnav {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
 .chaphead {
 	background-color: #FFDDAA;
 	padding: 10px;
@@ -61,6 +74,32 @@
 	margin-right: 10px;
 	margin-bottom: 10px;
 	border-radius: 15px;
+}
+
+table.keytbl {
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 2px;
+}
+
+td.keynom {
+	background-color: #FFCC99;
+	text-align: right;
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	border-radius: 5px;
+}
+
+td.keyval {
+	background-color: #FFDDAA;
+	text-align: left;
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	border-radius: 5px;
 }
 
 p.first {
