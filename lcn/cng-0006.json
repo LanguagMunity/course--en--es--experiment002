@@ -41,9 +41,9 @@
 ,{"typ":"exrc","form":"drill"
 ,"inst":["ds","Conjugate","Participles","haber"]
 ,"lines":[
-  { "x":"","pre":"Present Participle: ","a":"xxxxxx"
+  { "x":"","pre":"Present Participle: ","a":"habiendo"
   ,		"apre":[""]}
-  ,{"x":"   ","pre":"Past Participle: ","a":"xxxxxx"
+  ,{"x":"   ","pre":"Past Participle: ","a":"habido"
   ,		"apre":[""]}
 ]
   ,"voca":{"typ":"synth"
