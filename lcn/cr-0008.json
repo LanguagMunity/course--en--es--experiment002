@@ -1,0 +1,151 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"ahora",
+  "a":"now (as in: this moment)"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"now (as in: this moment)",
+  "a":"ahora"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"esta",
+  "a":"this (f)"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"this (f)",
+  "a":"esta"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"esto",
+  "a":"this (m)"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"this (m)",
+  "a":"esto"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"algo",
+  "a":"something / a little"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"something / a little",
+  "a":"algo"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"siempre",
+  "a":"always"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"always",
+  "a":"siempre"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"entonces",
+  "a":"then"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"then",
+  "a":"entonces"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"vez",
+  "a":"time / occasion"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"time / occasion",
+  "a":"vez"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"veces",
+  "a":"times / occasions"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"times / occasions",
+  "a":"veces"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+
+
+]

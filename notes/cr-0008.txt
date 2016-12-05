@@ -7,17 +7,52 @@ the conjugation lessons.
 
 #43: ahora
 
+ahora
+now (as in: this moment)
+(0+2=2)
 
 #44: esta
 
+esta
+this (f)
+(2+2=4)
+
+esto
+this (m)
+(4+2=6)
 
 #45: hay
-Hay, being technically (even if not practically) a from
-of "haber" goes into the very first conjugation lesson
-involving "haber".
+-- Already taken care of in an earlier lesson
 
-hay
-there is / there are
-(xx+2=xx)
+
+#48: algo
+
+algo
+something / a little
+(6+2=8)
+
+!#SR: siempre
+
+siempre
+always
+(8+2=10)
+
+!#SR: entonces
+
+entonces
+then
+(10+2=12)
+
+!#SR: vez / veces
+
+vez
+time / occasion
+(12+2=14)
+
+veces
+times / occasions
+(14+2=16)
+
+----- 
 
 
