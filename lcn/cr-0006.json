@@ -128,14 +128,14 @@
 ,{
   "typ":"smtx",
   "lang":["es","en"],
-  "q":"esto",
+  "q":"este",
   "a":"this"
 }
 ,{
   "typ":"smtx",
   "lang":["en","es"],
   "q":"this",
-  "a":"esto"
+  "a":"este"
   ,"voca":{"typ":"synth"
     ,"lng":"es"
     ,"gnd":"r"
