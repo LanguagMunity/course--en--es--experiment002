@@ -7,6 +7,7 @@
   "lang":["es","en"],
   "q":"hablar",
   "a":"to speak"
+  ,"info":{ "shrt":"cng-0000*" }
 }
 ,{
   "typ":"smtx",
@@ -17,6 +18,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cng-0000*" }
 }
 
 
@@ -25,6 +27,7 @@
   "lang":["es","en"],
   "q":"comer",
   "a":"to eat"
+  ,"info":{ "shrt":"cng-0000*" }
 }
 ,{
   "typ":"smtx",
@@ -35,6 +38,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cng-0000*" }
 }
 
 
@@ -43,6 +47,7 @@
   "lang":["es","en"],
   "q":"vivir",
   "a":"to live"
+  ,"info":{ "shrt":"cng-0000*" }
 }
 ,{
   "typ":"smtx",
@@ -53,6 +58,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cng-0000*" }
 }
 
 

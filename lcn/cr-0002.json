@@ -7,12 +7,14 @@
   "lang":["es","en"],
   "q":"y",
   "a":"and"
+  ,"info":{ "shrt":"cr-0002*" }
 }
 ,{
   "typ":"smtx",
   "lang":["en","es"],
   "q":"and",
   "a":"y"
+  ,"info":{ "shrt":"cr-0002*" }
 }
 
 
@@ -21,6 +23,7 @@
   "lang":["es","en"],
   "q":"ser",
   "a":"to be"
+  ,"info":{ "shrt":"cr-0002*" }
 }
 ,{
   "typ":"smtx",
@@ -36,6 +39,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0002*" }
 }
 
 
@@ -44,6 +48,7 @@
   "lang":["es","en"],
   "q":"estar",
   "a":"to be"
+  ,"info":{ "shrt":"cr-0002*" }
 }
 ,{
   "typ":"smtx",
@@ -59,6 +64,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0002*" }
 }
 
 
@@ -78,6 +84,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0002*" }
 }
 ,{"typ":"exrc","form":"blank"}
 ,{"typ":"exrc","form":"blank"}
@@ -91,6 +98,7 @@
   "lang":["es","en"],
   "q":"en",
   "a":"in / on"
+  ,"info":{ "shrt":"cr-0002*" }
 }
 ,{
   "typ":"smtx",
@@ -101,6 +109,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0002*" }
 }
 
 
@@ -109,6 +118,7 @@
   "lang":["es","en"],
   "q":"lo",
   "a":"it / him / the"
+  ,"info":{ "shrt":"cr-0002*" }
 }
 ,{
   "typ":"smtx",
@@ -119,6 +129,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0002*" }
 }
 
 
@@ -127,6 +138,7 @@
   "lang":["es","en"],
   "q":"un",
   "a":"a (m)"
+  ,"info":{ "shrt":"cr-0002*" }
 }
 ,{
   "typ":"smtx",
@@ -137,6 +149,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0002*" }
 }
 
 
@@ -145,6 +158,7 @@
   "lang":["es","en"],
   "q":"por qué",
   "a":"why"
+  ,"info":{ "shrt":"cr-0002*" }
 }
 ,{
   "typ":"smtx",
@@ -155,6 +169,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0002*" }
 }
 
 

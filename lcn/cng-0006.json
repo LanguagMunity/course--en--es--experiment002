@@ -7,6 +7,7 @@
   "lang":["es","en"],
   "q":"haber",
   "a":"to have (as in: to have done)"
+  ,"info":{ "shrt":"cng-0006*" }
 }
 ,{
   "typ":"smtx",
@@ -17,6 +18,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cng-0006*" }
 }
 
 
@@ -25,6 +27,7 @@
   "lang":["es","en"],
   "q":"hay",
   "a":"there is / there are"
+  ,"info":{ "shrt":"cng-0006*" }
 }
 ,{
   "typ":"smtx",
@@ -35,6 +38,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cng-0006*" }
 }
 
 
@@ -50,6 +54,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cng-0006*" }
 }
 ,{"typ":"exrc","form":"blank"}
 
@@ -70,6 +75,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cng-0006*" }
 }
 ,{"typ":"exrc","form":"blank"}
 ,{"typ":"exrc","form":"blank"}
@@ -94,6 +100,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cng-0006*" }
 }
 ,{"typ":"exrc","form":"blank"}
 ,{"typ":"exrc","form":"blank"}

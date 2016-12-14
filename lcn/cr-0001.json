@@ -7,6 +7,7 @@
   "lang":["es","en"],
   "q":"de",
   "a":"from / of"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -17,6 +18,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 
 
@@ -25,6 +27,7 @@
   "lang":["es","en"],
   "q":"el libro de mi tía",
   "a":"my aunt's book"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -35,6 +38,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 
 
@@ -43,6 +47,7 @@
   "lang":["es","en"],
   "q":"alguien de España",
   "a":"someone from Spain"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -53,6 +58,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 
 
@@ -61,6 +67,7 @@
   "lang":["es","en"],
   "q":"un libro que me gusta",
   "a":"a book that I like"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -71,6 +78,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 
 
@@ -79,6 +87,7 @@
   "lang":["es","en"],
   "q":"Creo que es aquí.",
   "a":"I think that it is here."
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -89,6 +98,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 
 
@@ -98,12 +108,14 @@
   "lang":["es","en"],
   "q":"Estoy orgulloso de tus logros.",
   "a":"I am proud of your accomplishments."
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
   "lang":["es","en"],
   "q":"Estoy orgullosa de tus logros.",
   "a":"I am proud of your accomplishments."
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ]
 
@@ -123,6 +135,7 @@
     ,"lng":"es"
     ,"gnd":"m"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -138,6 +151,7 @@
     ,"lng":"es"
     ,"gnd":"f"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ]
 
@@ -147,6 +161,7 @@
   "lang":["es","en"],
   "q":"a",
   "a":"to"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -157,6 +172,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 
 
@@ -165,6 +181,7 @@
   "lang":["es","en"],
   "q":"Ve a la mesa.",
   "a":"Go to the table."
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -175,6 +192,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 
 
@@ -186,24 +204,28 @@
   "lang":["es","en"],
   "q":"a la derecha",
   "a":"to the right"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
   "lang":["es","en"],
   "q":"a la izquierda",
   "a":"to the left"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
   "lang":["es","en"],
   "q":"a su derecha",
   "a":"to your right"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
   "lang":["es","en"],
   "q":"a su izquierda",
   "a":"to your left"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ]
 
@@ -218,6 +240,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -228,6 +251,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -238,6 +262,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -248,6 +273,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ]
 ]
@@ -258,6 +284,7 @@
   "lang":["es","en"],
   "q":"la",
   "a":"it / her / the"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -268,6 +295,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 
 
@@ -276,6 +304,7 @@
   "lang":["es","en"],
   "q":"el",
   "a":"the (m) (sg)"
+  ,"info":{ "shrt":"cr-0001*" }
 }
 ,{
   "typ":"smtx",
@@ -286,6 +315,7 @@
     ,"lng":"es"
     ,"gnd":"r"
   }
+  ,"info":{ "shrt":"cr-0001*" }
 }
 
 
